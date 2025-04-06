@@ -52,13 +52,5 @@ Find me on:
 - GitHub: [@Abhinand-arch](https://github.com/Abhinand-arch)
 - LinkedIn: [Abhinand PS](https://www.linkedin.com/in/abhinand-ps-10ab3228a)
 
-Feel free to use this as inspiration for your own portfolio! (It's MIT licensed)
 
 
-This version:
-- Uses friendly, conversational language
-- Explains things simply without technical jargon
-- Keeps the same information but presents it more naturally
-- Feels more personal and approachable
-
-Let me know if you'd like any adjustments to the tone or content!
