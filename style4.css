@@ -1,0 +1,20 @@
+body{
+    background-image:url(./neural.png);
+    background-size: cover;
+
+}
+h1{
+    text-align: center;
+    color:cornflowerblue;
+    font-size: 40px;
+}
+h2{
+    font-size: 30px;
+    color:gold;
+}
+p{
+    color:white;
+    font-size: 25px;
+    text-shadow: 2px 2px 4px black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
