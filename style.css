@@ -56,7 +56,7 @@ h1{
 .container3{
     display: flex;
     justify-content: center;
-    gap: 25px;
+    gap: 30px;
 }
 .semicontainer1{
     background-color:burlywood;
