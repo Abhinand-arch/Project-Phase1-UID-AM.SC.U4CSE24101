@@ -57,6 +57,7 @@ h1{
     display: flex;
     justify-content: center;
     gap: 30px;
+    trnasform:translateX(5px);
 }
 .semicontainer1{
     background-color:burlywood;
